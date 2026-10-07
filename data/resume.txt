@@ -1,0 +1,45 @@
+Md Hafijur Rahman Jubaer
+Fredericton, New Brunswick, Canada
+Email: mjubaer@unb.ca | LinkedIn: LinkedIn | GitHub: github.com/mjubaerUNB3035
+Professional Summary
+Motivated Software Developer with experience in full-stack application development, including backend systems, frontend interfaces, databases, and cloud technologies. Skilled in Python, Java, SQL, and REST APIs, with exposure to AWS and CI/CD workflows. Strong problem-solving skills with a passion for learning new technologies and building scalable software solutions.
+Professional Experience
+Data Engineer - McCain Foods                                                                                                                Jan 2023 – Apr 2023
+Developed and optimized SQL queries to extract, transform, and analyze data from relational databases for reporting and operational use.
+Worked with large datasets and database-driven workflows, gaining hands-on experience with data extraction, transformation, and reporting pipelines.
+Assisted in maintaining and validating data accuracy across internal systems.
+Gained experience handling large datasets and understanding database-driven workflows.
+Software Developer – SpryPoint Inc.                                                                                                    Jan 2024 – Apr 2024
+Developed and maintained Java and Python-based software components, implementing features and fixing issues within existing application codebases.
+Worked with cross-functional teams on backend and frontend system development.
+Participated in Agile workflows, task tracking, and collaborative development practices.
+Used Git, Java, REST APIs, and cloud-based development tools to support reliable software development and delivery.
+Programmer Analyst – Vestcor Inc.                                                                                                      Aug 2024 – Apr 2025
+Developed and maintained software solutions using Python and C# within enterprise application environments.
+Worked with cloud-based systems and gained exposure to AWS services, deployment workflows, and enterprise infrastructure.
+Used Copilot as the base of AI assistance and integration into the development process.
+Education
+Bachelor of Science – Computer Science                                                                        Jan 2021 – Mar 2026
+University of New Brunswick, Fredericton, NB
+CGPA: 3.8/4.3
+Personal & Academic Projects
+Cloud Security Automation – Cloud Security Assessment Platform
+Developed an automated cloud security assessment tool to evaluate cloud accounts for security risks and misconfigurations.
+Automated checks for open/exposed ports, network access, and cloud security configurations to identify potential vulnerabilities.
+Designed automated security checks to reduce manual cloud-security assessment and provide consistent security analysis.
+Applied software development and cloud-security principles to build a scalable approach for continuously assessing cloud environments.
+Zenith – Python | Fast API | PostgreSQL
+Developing Developing a Python stock screening platform using Fast API, PostgreSQL, SQLAlchemy, and Alpha Vantage.
+Built a modular screening engine with reusable rules for valuation, profitability, and financial health.
+Built integrations to exchange and synchronize data with external systems..
+Implemented a tool-using ReAct agent architecture with LLM-driven planning, tool execution, and multi-step workflow automation.
+Using Git for version control and development.
+Awards & Recognition
+Edwin Jacob Special University Award (2022–2023)
+Alumni Undergraduate Award (2023–2024)
+Dean’s List Scholar (2022–2023)
+Leadership & Activities
+Vice President - Bangladesh Student Society (BSS), UNB                                      Oct 2022 – Aug 2024
+Coordinated events and initiatives focused on student engagement and community involvement.
+Collaborated with executive teams to solve organizational and communication challenges.
+Managed records, meetings, and operational planning activities.

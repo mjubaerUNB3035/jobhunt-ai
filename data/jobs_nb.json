@@ -1,0 +1,442 @@
+[
+  {
+    "id": "nb-01",
+    "title": "Technical Analyst",
+    "company": "Bulletproof",
+    "location": "Fredericton, NB",
+    "url": "https://ca.bebee.com/jobs-technical-analyst/Fredericton",
+    "skills": [
+      "Microsoft Windows / Microsoft 365 support",
+      "LAN & desktop troubleshooting",
+      "service-desk ticketing",
+      "customer service & communication",
+      "college diploma in IT or relevant certs",
+      "ITIL familiarity an asset"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-02",
+    "title": "Technical Analyst",
+    "company": "VeroSource",
+    "location": "Fredericton, NB",
+    "url": "https://grabjobs.co/canada/job/full-time/others/technical-analyst-152462331",
+    "skills": [
+      "3+ years as Technical/Systems Analyst",
+      "system integration & APIs",
+      "SQL & data mapping",
+      "technical documentation",
+      "Agile",
+      "Bachelor's in CS/Information Systems. Nice-to-have: healthcare data (FHIR/HL7)",
+      "Azure/AWS",
+      "REST/JSON"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-03",
+    "title": "Technical Analyst/Field Tech",
+    "company": "Advantage Personnel",
+    "location": "Saint John, NB \u2014 $23\u2013$28/hr, full-time",
+    "url": "https://www.careerbeacon.com/en/job/2236636/advantage-personnel/technical-analyst-field-tech/saint-john-nb",
+    "skills": [
+      "Microsoft Intune",
+      "Autopilot OS installs",
+      "basic Active Directory & network tools",
+      "troubleshooting & documentation",
+      "1+ years in support/analyst role"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-04",
+    "title": "Biostatistician \u2013 AI Trainer",
+    "company": "DataAnnotation",
+    "location": "Remote (Moncton listing), from $54.76/hr",
+    "url": "https://www.glassdoor.ca/job-listing/biostatistician-ai-trainer-dataannotation-JV_IC2294500_KO0,26_KE27,41.htm?jl=1009543541878",
+    "skills": [
+      "Expert-level statistics/math reasoning",
+      "Masters/PhD preferred (not required)",
+      "fluent English",
+      "detail-oriented. Flexible hours",
+      "paid via PayPal"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-05",
+    "title": "Machine Learning role",
+    "company": "Bell Canada",
+    "location": "Moncton \u2014 posted 2 days ago",
+    "url": "https://www.careerbeacon.com/en/search/it-jobs-in-new-brunswick",
+    "skills": [
+      "typically Python",
+      "ML frameworks",
+      "data pipelines for this role type"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-06",
+    "title": "Senior Frontend Developer (WFH)",
+    "company": "TD",
+    "location": "Fredericton \u2014 posted today",
+    "url": "https://ca.jooble.org/jobs-software-developer/Fredericton%2C-NB",
+    "skills": [
+      "typically JavaScript/TypeScript",
+      "React or Angular",
+      "HTML/CSS for this role type"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-07",
+    "title": "Application Help Desk Analyst (remote)",
+    "company": "Pathlion",
+    "location": "Moncton \u2014 posted 2 days ago",
+    "url": "https://ca.jooble.org/jobs-IT-help-desk/Moncton%2C-NB",
+    "skills": [
+      "typically troubleshooting",
+      "ticketing systems",
+      "customer support for this role type"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-08",
+    "title": "ML Research Expert",
+    "company": "Synthires",
+    "location": "Remote \u2014 posted today",
+    "url": "https://ca.jobsora.com/jobs-computer-scientist-fredericton-nb",
+    "skills": [
+      "typically ML research background",
+      "Python",
+      "deep learning for this role type"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-09",
+    "title": "Software Developer",
+    "company": "VeroSource",
+    "location": "Fredericton, NB",
+    "url": "https://grabjobs.co/canada/job/full-time/others/software-developer-152462851",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "JPA",
+      "REST APIs/microservices/JSON",
+      "relational DB design",
+      "HTML5/JS/CSS/jQuery",
+      "GitLab/GitHub",
+      "Agile",
+      "3+ yrs",
+      "CS/Engineering degree. Assets: Docker/K8s",
+      "AWS/Azure",
+      "React",
+      "OAuth2/SAML",
+      "Terraform",
+      "application security"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-10",
+    "title": "QA Analyst (Intermediate QA Specialist)",
+    "company": "VeroSource",
+    "location": "Fredericton, NB",
+    "url": "https://grabjobs.co/canada/job/full-time/others/qa-analyst-161966723",
+    "skills": [
+      "3+ yrs QA on web/mobile",
+      "Selenium/Appium/Postman/Playwright",
+      "JavaScript/TypeScript",
+      "test plans",
+      "cases",
+      "scripts",
+      "functional/regression/performance testing",
+      "Agile/Scrum",
+      "Git/GitLab",
+      "CS degree. Assets: LLM/GenAI testing (Claude, MCP servers)",
+      "React",
+      "Docker/K8s"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-11",
+    "title": "Senior Software Developer (Architect)",
+    "company": "Quantiphi",
+    "location": "Fredericton, NB (hybrid) \u2014 posted ~21h ago",
+    "url": "https://www.jobs.ca/job/993e6076-05e2-48a5-b831-8f277a421f7b",
+    "skills": [
+      "10+ years",
+      "Java 11/17",
+      "Spring (MVC/Boot)",
+      "SQL (SQL Server/MySQL/PostgreSQL)",
+      "REST APIs",
+      "full-stack JS (React/Angular)",
+      "Azure",
+      "CI/CD",
+      "code reviews & mentoring"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-16",
+    "title": "Cyber Security Program Manager",
+    "company": "GNB Finance and Treasury Board",
+    "location": "Fredericton, NB \u2014 Pay Band 5 \u2014 open until filled",
+    "url": "https://www.careerbeacon.com/en/job/2193599/finance-and-treasury-board/cyber-security-program-manager/nb",
+    "skills": [
+      "degree + 8 yrs",
+      "program management",
+      "stakeholder engagement",
+      "cyber security strategy",
+      "eligible for Canadian federal security clearance",
+      "technical background NOT required",
+      "$66",
+      "924\u2013$93",
+      "470"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-17",
+    "title": "Senior IT Project Manager",
+    "company": "Service New Brunswick",
+    "location": "NB (flexible location) \u2014 Pay Band 7, $110K\u2013$150K",
+    "url": "https://www.ere.gnb.ca/competition.aspx (GNB open competitions \u2014 search \"Senior IT Project Manager\", Service New Brunswick)",
+    "skills": [
+      "IT project delivery & team leadership",
+      "building a new team transforming how GNB delivers IT services"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-18",
+    "title": "AI Integration and Automation Specialist",
+    "company": "GNB Finance and Treasury Board",
+    "location": "Remote in New Brunswick",
+    "url": "https://www.ere.gnb.ca/competition.aspx (GNB open competitions \u2014 search \"AI Integration and Automation Specialist\")",
+    "skills": [
+      "AI integration & automation for government (details on GNB competition board",
+      "no closing date posted)"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-19",
+    "title": "Senior Software Developer \u2013 Simulation",
+    "company": "CoLab Software",
+    "location": "Fredericton, NB \u2014 $69K\u2013$89K",
+    "url": "https://www.glassdoor.ca/Job/new-brunswick-software-designer-jobs-SRCH_IL.0,13_IS4077_KO14,31.htm",
+    "skills": [
+      "experience with CAD",
+      "PLM",
+      "or engineering software development",
+      "partner with Product/Design/customers to validate ideas"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-20",
+    "title": "Senior Full-Stack AI Product Engineer",
+    "company": "CGS Immersive",
+    "location": "Moncton, NB \u2014 $82K\u2013$120K",
+    "url": "https://www.glassdoor.ca/Job/new-brunswick-software-designer-jobs-SRCH_IL.0,13_IS4077_KO14,31.htm",
+    "skills": [
+      "full-stack engineering",
+      "effective use of AI development tools",
+      "strong engineering judgment"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-21",
+    "title": "Network Solution Architect",
+    "company": "Marine Bio-Technologies Center of Innovation",
+    "location": "New Brunswick",
+    "url": "https://www.glassdoor.ca/Job/new-brunswick-software-designer-jobs-SRCH_IL.0,13_IS4077_KO14,31.htm",
+    "skills": [
+      "Bachelor's in CS/IT/Engineering or related",
+      "network solution architecture"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-22",
+    "title": "Team Leader, Service Desk",
+    "company": "Medavie",
+    "location": "New Brunswick (remote) \u2014 $73,465\u2013$82,648",
+    "url": "https://www.workopolis.com/search?l=fredericton+new+brunswick%2C+canada (Workopolis Fredericton search)",
+    "skills": [
+      "CS degree",
+      "service desk team leadership",
+      "IT support operations"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-23",
+    "title": "Datacenter & AI Solutions Specialist",
+    "company": "Bell",
+    "location": "Moncton, NB (Req 425393; sales-focused AI role)",
+    "url": "https://www.careerjet.ca/customer-specialist-jobs/Moncton,-NB (Careerjet Moncton search)",
+    "skills": [
+      "AI infrastructure/datacenter solutions",
+      "enterprise AI/SaaS sales",
+      "strong technical AI grasp + communication"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-24",
+    "title": "Senior Software Developer (full stack)",
+    "company": "Stantec Consulting International Ltd.",
+    "location": "Fredericton, NB \u2014 posted ~3 hours ago",
+    "url": "https://ca.jobsora.com/jobs-junior-software-developer-fredericton-nb (Jobsora Fredericton board)",
+    "skills": [
+      "full-stack web apps",
+      "Python back-end (Django)",
+      "front-end frameworks (Angular)",
+      "Agile team collaboration"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-25",
+    "title": "Software Developer",
+    "company": "Arcadis (Product Team)",
+    "location": "Fredericton, NB \u2014 posted 5 days ago",
+    "url": "https://ca.jobsora.com/jobs-junior-software-developer-fredericton-nb (Jobsora Fredericton board)",
+    "skills": [
+      "complex IT projects",
+      "systems engineering",
+      "software design",
+      "coding",
+      "debugging"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-26",
+    "title": "Python Developer",
+    "company": "Teledyne CARIS",
+    "location": "Fredericton, NB \u2014 posted ~3 hours ago",
+    "url": "https://ca.jobsora.com/jobs-junior-software-developer-fredericton-nb (Jobsora Fredericton board)",
+    "skills": [
+      "cloud-native geospatial solutions (Python, cloud-native)"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-27",
+    "title": "Junior Developer",
+    "company": "University of Fredericton",
+    "location": "Fredericton, NB \u2014 posted 5 days ago",
+    "url": "https://ca.jobsora.com/jobs-junior-software-developer-fredericton-nb (Jobsora Fredericton board)",
+    "skills": [
+      "junior-level role",
+      "very reachable"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-28",
+    "title": "Software Developer IV",
+    "company": "IGT",
+    "location": "Moncton, NB",
+    "url": "https://grabjobs.co/canada/job/full-time/technology/software-developer-iv-start-now-19270963",
+    "skills": [
+      "10+ years development experience",
+      "C++",
+      "C#",
+      "OOP & design patterns",
+      "debugging tools",
+      "unit testing",
+      "hands-on design/development of casino/lottery gaming products",
+      "mentoring junior engineers"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-29",
+    "title": "IT Architect",
+    "company": "Irving Oil",
+    "location": "Saint John, NB",
+    "url": "https://www.careerjet.ca/strategic-information-jobs/New-Brunswick (Careerjet NB strategic-information board)",
+    "skills": [
+      "translate business objectives into strategic technology plans",
+      "ensure high availability of core organizational functions"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-30",
+    "title": "Senior Network Analyst",
+    "company": "Bulletproof (a GLI Company)",
+    "location": "Fredericton, NB",
+    "url": "https://ca.talent.com/view?id=2bb5493ce040",
+    "skills": [
+      "design",
+      "implement and maintain SMB and Enterprise network solutions",
+      "deploy & support wireless solutions"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-31",
+    "title": "Software Developer",
+    "company": "QPS Canada Inc.",
+    "location": "Fredericton, NB (mix of onsite and remote)",
+    "url": "https://qps.nl/careers/software-developer-2/",
+    "skills": [
+      "C++ / OOP",
+      "Qt Application Development Framework",
+      "Git",
+      "2+ years",
+      "CS/Software Engineering degree or equivalent",
+      "familiarity with GIS",
+      "cartography or mapping applications",
+      "exposure to Agile",
+      "web technologies",
+      "cloud development",
+      "maritime software (mapping, dredging, offshore)"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-32",
+    "title": "Software Developer IV",
+    "company": "J.D. Power",
+    "location": "Moncton, NB (Remote \u2013 Canada) \u2014 posted 2026-10-06",
+    "url": "https://ca.jobsora.com/jobs-developer-new-brunswick (Jobsora NB developer board)",
+    "skills": [
+      "full software development lifecycle (analysis, design, implementation, verification, maintenance)"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  },
+  {
+    "id": "nb-33",
+    "title": "Software Developer (AI/ML)",
+    "company": "Smart Skin Technologies",
+    "location": "Fredericton, NB (hybrid or remote in Eastern Canada)",
+    "url": "https://grabjobs.co/canada/job/full-time/others/software-developer-aiml-151285913",
+    "skills": [
+      "Python (NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch)",
+      "Java",
+      "end-to-end ML pipelines (train, validate, deploy) on AWS (SageMaker, Lambda, S3, ECS)",
+      "regression",
+      "classification",
+      "anomaly detection",
+      "deep learning",
+      "signal/time-series data processing (filtering, resampling, feature extraction)",
+      "CI/CD",
+      "Git",
+      "Docker",
+      "3\u20135 yrs development incl. 2 yrs AI/ML",
+      "CS/Engineering degree or equivalent"
+    ],
+    "source": "job_list.md (2026-10-06 sweep)"
+  }
+]
